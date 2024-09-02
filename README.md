@@ -6,4 +6,4 @@ Previos assembly (GRCh38.p7): The Dec. 2013  assembly of the human genome - hg38
 ## Acknowledgements
 The chain was obtained using the **flo** tool:
 
-The fire ant social chromosome supergene variant Sb shows low diversity but high divergence from SB. 2017. R Pracana, A Priyam, I Levantis, Y Wurm. Molecular Ecology, doi: 10.1111/mec.14054.
+The fire ant social chromosome supergene variant Sb shows low diversity but high divergence from SB. 2017. R Pracana, A Priyam, I Levantis, Y Wurm. Molecular Ecology, doi: 10.1111/mec.14054
